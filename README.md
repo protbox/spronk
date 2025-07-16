@@ -94,7 +94,7 @@ end
 
 ### Other stuff
 
-**flip_h(bool)** - Flip horizontally
-**flip_v(bool)** - Flip vertically
-**set_rotation(number)** - Set rotation
-**set_scale(number_x, number_y)** - Set the x and y scale
+- **flip_h(bool)** - Flip horizontally
+- **flip_v(bool)** - Flip vertically
+- **set_rotation(number)** - Set rotation
+- **set_scale(number_x, number_y)** - Set the x and y scale
